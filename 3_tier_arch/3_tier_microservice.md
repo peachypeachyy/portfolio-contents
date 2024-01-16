@@ -14,11 +14,11 @@ The overall architecture uses 3 layers of abstraction with different namespaces 
 
 There are several components to this architecture
 
-# Tenant Dashboards
+### Tenant Dashboards
 
-# API Management
+### API Management
 
-# OCP-Kubernetes Multi-tenant workloads
+### OCP-Kubernetes Multi-tenant workloads
 
 ## Impact:
 
