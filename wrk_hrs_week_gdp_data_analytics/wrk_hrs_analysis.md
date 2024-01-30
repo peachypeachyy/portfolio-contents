@@ -64,3 +64,8 @@ Following is the cluster analysis :
 ## Conclusion
 
 There is no evidence to state that there is a positive correlation between average gdp per capita in any of the countries compared to number of hours worked per week, i.e the more work produced each hour does not translate into an increase in gdp per capita. On the other hand, a decline is observed, and the decline is steeper as we move from Richer countries to Poorer countries.
+
+
+## Learnings
+
+In this project, I was able to wrangle data using R within R-Studio to transform and Identify relationships between different variables. I was then also able to dervice conclusions and use cluster inferencing to validate my results in R Programming Language.
