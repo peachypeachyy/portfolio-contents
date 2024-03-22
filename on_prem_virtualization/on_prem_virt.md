@@ -4,7 +4,7 @@
 
 The aim of this architecture is to create a DC-DR based on prem architecture which can run both Virtualized and Containerized workloads 
 
-![My Image](https://github.com/peachypeachyy/portfolio-contents/blob/main/3_tier_arch/supporting_assets/3%20Tier%20Arch.jpg)
+![My Image](https://github.com/peachypeachyy/portfolio-contents/blob/main/on_prem_virtualization/supporting_assets/Onprem%20arch.png)
 
 ## Technologies Used :
     - Red Hat Openshift
@@ -24,19 +24,7 @@ The overall architecture uses 3 layers of abstraction with different namespaces 
 
 As a Solutions Architect, my work involved devising this Green-field architecture, integrating & Securing the API's with the API management solution, understanding and designing the business processess which needed to be automated using low-code/no-code on the Process Automation Manager(PAM) deployed on Openshift 
 
-There are several components to this architecture
 
-### Tenant Dashboards
-
-The Tenant Dashboards were custom developed using Frontend languages such as React and NodeJS. The main utility of the frontend was to provide a dashboard where the customers of our client could interface with the billing software
-
-### API Management
-
-Each API exposed on the front-end was integrated with the 3Scale API Management where Rules for Rate limiting, monetizing and securing were devised. Connectors to create re-usable code for each API to talk to each other were also created in this API Management layer on Red Hat Fuse.
-
-### OCP-Kubernetes Multi-tenant workloads
-
-Since each customer of the client had thier own business processess which interacted with the billing software, it was essential that the client provided a multi-tenancy solution which was scalable based on the number of customers subscribed to the client.
 
 ## Work Performed
 
