@@ -9,6 +9,9 @@ Owing to increasing number of IT assets for a Major Oil and Gas Client, there wa
 - No central source of truth to manage the lifecycle of assets
 - Increasing manual efforts for routine IT tasks performed by different teams in silo's.
 
+## Existing Setup
+- Heterogenous Scripts in different languages to automate certain tasks.
+
 ## Solution Approach
 
 - Consolidation of IT assets under a single platform to manage their lifecycle
